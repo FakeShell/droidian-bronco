@@ -3,7 +3,7 @@ lenovo_thinkphone:
   arch: arm64
   edition: phosh
   variant: phone
-  apilevel: 33
+  apilevel: 32
   use_internal_repository: false
 
   packages:
